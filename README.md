@@ -1,0 +1,2 @@
+# ft_printf
+This project is pretty straight forward. You will recode printf. You will then be allowed to reuse the function in your future projects. You will mainly learn how to use variadic arguments. The versatility of theprintffunction inCrepresents a great exercise in programming forus. This project is of moderate difficulty. It will enable me to discover variadic functionsinC.The key to a successfulft_printfis a well-structured and good extensible code.
